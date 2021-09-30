@@ -1,0 +1,26 @@
+{
+  "name": "blurbotv2",
+  "version": "1.0.0",
+  "description": "Personal Discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "/ping"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PixelParallax/blurbotV2.git"
+  },
+  "author": "Adam San Clemente",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PixelParallax/blurbotV2/issues"
+  },
+  "homepage": "https://github.com/PixelParallax/blurbotV2#readme",
+  "keywords": [],
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}
